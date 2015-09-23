@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+﻿# -*- coding: utf-8 -*-
 """
 Created on Tue Sep 22 21:37:03 2015
 
@@ -101,4 +101,4 @@ normed_subst = count_subset.div(count_subset.sum(1),axis=0)#标准化
 normed_subst.plot(kind = 'barh',stacked=True) #标准化画图
 
 
-
+#TEST
